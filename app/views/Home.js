@@ -112,6 +112,69 @@ class Home extends Component {
             </div>
             {/* <- Web Content */}
 
+            {/* Select Content Web site */}
+            <h2 className="ui header olive">¿Quieres que redactemos el contenido de tu sitio?</h2>
+            <div className="SelectionOption ui grid centered">
+              <div className="SelectionOption-select four wide column center aligned">Si</div>
+              <div className="SelectionOption-select four wide column center aligned">No</div>
+            </div> {/* <- End Select Content Web site */}
+
+            {/* Select Language */}
+            <h2 className="ui header olive">¿Quieres un lenguage más?</h2>
+            <div className="SelectionOption ui grid centered">
+              <div className="SelectionOption-select four wide column center aligned">Si</div>
+              <div className="SelectionOption-select four wide column center aligned">No</div>
+            </div> {/* <- End Select Language */}
+
+            {/* You need a blog */}
+            <h2 className="ui header olive">¿Necesitas un Blog?</h2>
+            <div className="SelectionOption ui grid centered">
+              <div className="SelectionOption-select four wide column center aligned">Si</div>
+              <div className="SelectionOption-select four wide column center aligned">No</div>
+            </div> {/* <- You need a blog */}
+
+            {/* You need a profesional images */}
+            <h2 className="ui header olive">¿Necesitas imágenes profesionales?</h2>
+            <div className="SelectionOption ui grid centered">
+              <div className="SelectionOption-select four wide column center aligned">Si</div>
+              <div className="SelectionOption-select four wide column center aligned">No</div>
+            </div> {/* <- You need a profesional images */}
+
+            {/* You need an integration with social channels */}
+            <h2 className="ui header olive">¿Redes Sociales?</h2>
+            <div className="SelectionOption ui grid centered">
+              <div className="SelectionOption-select four wide column center aligned">Si</div>
+              <div className="SelectionOption-select four wide column center aligned">No</div>
+            </div> {/* <- You need an integration with social channels */}
+            
+            {/* Posicionamiento web */}
+            <h2 className="ui header olive">¿Posicionamiento Web?</h2>
+            <div className="ui segment">
+              <div className="ui list">
+
+                <div className="item">
+                  <i className="add icon"></i>
+                  <div className="content">Instalación Google Analitycs</div>
+                </div>
+
+                <div className="item">
+                  <i className="add icon"></i>
+                  <div className="content">Instalación de Google Search Console</div>
+                </div>
+
+                <div className="item">
+                  <i className="add icon"></i>
+                  <div className="content">Optimización de Robots.txt y sitemap.xml</div>
+                </div>
+
+                <div className="item">
+                  <i className="add icon"></i>
+                  <div className="content">Puesta a punto con el plugin de wordpress</div>
+                </div>
+
+              </div>
+            </div> {/* <- End Posicionamiento Web */}
+
           </div>
 
           <div className="Checkout ui four wide column">

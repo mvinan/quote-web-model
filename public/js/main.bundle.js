@@ -27854,7 +27854,7 @@
 	
 	var _jquery2 = _interopRequireDefault(_jquery);
 	
-	__webpack_require__(/*! ../../public/js/semantic.js */ 240);
+	__webpack_require__(/*! ../../public/js/semantic.js */ 239);
 	
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
@@ -28092,7 +28092,161 @@
 	                  )
 	                )
 	              )
-	            )
+	            ),
+	            _react2.default.createElement(
+	              'h2',
+	              { className: 'ui header olive' },
+	              '\xBFQuieres que redactemos el contenido de tu sitio?'
+	            ),
+	            _react2.default.createElement(
+	              'div',
+	              { className: 'SelectionOption ui grid centered' },
+	              _react2.default.createElement(
+	                'div',
+	                { className: 'SelectionOption-select four wide column center aligned' },
+	                'Si'
+	              ),
+	              _react2.default.createElement(
+	                'div',
+	                { className: 'SelectionOption-select four wide column center aligned' },
+	                'No'
+	              )
+	            ),
+	            ' ',
+	            _react2.default.createElement(
+	              'h2',
+	              { className: 'ui header olive' },
+	              '\xBFQuieres un lenguage m\xE1s?'
+	            ),
+	            _react2.default.createElement(
+	              'div',
+	              { className: 'SelectionOption ui grid centered' },
+	              _react2.default.createElement(
+	                'div',
+	                { className: 'SelectionOption-select four wide column center aligned' },
+	                'Si'
+	              ),
+	              _react2.default.createElement(
+	                'div',
+	                { className: 'SelectionOption-select four wide column center aligned' },
+	                'No'
+	              )
+	            ),
+	            ' ',
+	            _react2.default.createElement(
+	              'h2',
+	              { className: 'ui header olive' },
+	              '\xBFNecesitas un Blog?'
+	            ),
+	            _react2.default.createElement(
+	              'div',
+	              { className: 'SelectionOption ui grid centered' },
+	              _react2.default.createElement(
+	                'div',
+	                { className: 'SelectionOption-select four wide column center aligned' },
+	                'Si'
+	              ),
+	              _react2.default.createElement(
+	                'div',
+	                { className: 'SelectionOption-select four wide column center aligned' },
+	                'No'
+	              )
+	            ),
+	            ' ',
+	            _react2.default.createElement(
+	              'h2',
+	              { className: 'ui header olive' },
+	              '\xBFNecesitas im\xE1genes profesionales?'
+	            ),
+	            _react2.default.createElement(
+	              'div',
+	              { className: 'SelectionOption ui grid centered' },
+	              _react2.default.createElement(
+	                'div',
+	                { className: 'SelectionOption-select four wide column center aligned' },
+	                'Si'
+	              ),
+	              _react2.default.createElement(
+	                'div',
+	                { className: 'SelectionOption-select four wide column center aligned' },
+	                'No'
+	              )
+	            ),
+	            ' ',
+	            _react2.default.createElement(
+	              'h2',
+	              { className: 'ui header olive' },
+	              '\xBFRedes Sociales?'
+	            ),
+	            _react2.default.createElement(
+	              'div',
+	              { className: 'SelectionOption ui grid centered' },
+	              _react2.default.createElement(
+	                'div',
+	                { className: 'SelectionOption-select four wide column center aligned' },
+	                'Si'
+	              ),
+	              _react2.default.createElement(
+	                'div',
+	                { className: 'SelectionOption-select four wide column center aligned' },
+	                'No'
+	              )
+	            ),
+	            ' ',
+	            _react2.default.createElement(
+	              'h2',
+	              { className: 'ui header olive' },
+	              '\xBFPosicionamiento Web?'
+	            ),
+	            _react2.default.createElement(
+	              'div',
+	              { className: 'ui segment' },
+	              _react2.default.createElement(
+	                'div',
+	                { className: 'ui list' },
+	                _react2.default.createElement(
+	                  'div',
+	                  { className: 'item' },
+	                  _react2.default.createElement('i', { className: 'add icon' }),
+	                  _react2.default.createElement(
+	                    'div',
+	                    { className: 'content' },
+	                    'Instalaci\xF3n Google Analitycs'
+	                  )
+	                ),
+	                _react2.default.createElement(
+	                  'div',
+	                  { className: 'item' },
+	                  _react2.default.createElement('i', { className: 'add icon' }),
+	                  _react2.default.createElement(
+	                    'div',
+	                    { className: 'content' },
+	                    'Instalaci\xF3n de Google Search Console'
+	                  )
+	                ),
+	                _react2.default.createElement(
+	                  'div',
+	                  { className: 'item' },
+	                  _react2.default.createElement('i', { className: 'add icon' }),
+	                  _react2.default.createElement(
+	                    'div',
+	                    { className: 'content' },
+	                    'Optimizaci\xF3n de Robots.txt y sitemap.xml'
+	                  )
+	                ),
+	                _react2.default.createElement(
+	                  'div',
+	                  { className: 'item' },
+	                  _react2.default.createElement('i', { className: 'add icon' }),
+	                  _react2.default.createElement(
+	                    'div',
+	                    { className: 'content' },
+	                    'Puesta a punto con el plugin de wordpress'
+	                  )
+	                )
+	              )
+	            ),
+	            ' '
 	          ),
 	          _react2.default.createElement(
 	            'div',
@@ -38365,8 +38519,7 @@
 
 
 /***/ },
-/* 239 */,
-/* 240 */
+/* 239 */
 /*!*******************************!*\
   !*** ./public/js/semantic.js ***!
   \*******************************/
